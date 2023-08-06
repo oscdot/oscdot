@@ -16,10 +16,8 @@ I love programming, learning new technologies, and coffee ☕️
 
 ## 💙 Tech that i love 
 
-- Svelte & SvelteKit
+- React & React Native
+- Next.js
 - Typescript
 - Zod
-- a11y
-- Python
-- Figma
-- Pizza & Brownies
+- C#
