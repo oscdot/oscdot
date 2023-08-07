@@ -9,7 +9,7 @@ I love programming, learning new technologies, and coffee ☕️
 <br>
 
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-ea3d61?style=for-the-badge&logo=Svelte&logoColor=black&link=https://landmark.sh/)](https://landmark.sh/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-ea3d61?style=for-the-badge&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/oscar-kj%C3%A6r-landmark-801a9678/)](https://www.linkedin.com/in/oscar-kj%C3%A6r-landmark-801a9678/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-ea3d61?style=for-the-badge&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/oscar-landmark-529673a1/)](https://www.linkedin.com/in/oscar-landmark-529673a1/)
 ![Visitors Badge](https://komarev.com/ghpvc/?username=oscarklm&label=Visitors&style=for-the-badge&color=ea3d61)
 [![GitHub Badge](https://img.shields.io/github/followers/oscarklm?label=follow&style=for-the-badge&color=ea3d61)](https://github.com/oscarklm)
 
