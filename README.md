@@ -13,6 +13,8 @@ I love programming, learning new technologies, and coffee ☕️
 ![Visitors Badge](https://komarev.com/ghpvc/?username=oscarklm&label=Visitors&style=for-the-badge&color=ea3d61)
 [![GitHub Badge](https://img.shields.io/github/followers/oscarklm?label=follow&style=for-the-badge&color=ea3d61)](https://github.com/oscarklm)
 
+## 🚧 Currently building
+- 2D RPG game in Godot called [Pixstead](https://github.com/oscarklm/pixstead)
 
 ## 💙 I love 
 
