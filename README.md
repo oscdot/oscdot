@@ -14,10 +14,11 @@ I love programming, learning new technologies, and coffee ☕️
 [![GitHub Badge](https://img.shields.io/github/followers/oscarklm?label=follow&style=for-the-badge&color=ea3d61)](https://github.com/oscarklm)
 
 
-## 💙 Tech that i love 
+## 💙 I love 
 
 - React & React Native
 - Next.js
 - Typescript
 - Zod
 - C#
+- Godot
