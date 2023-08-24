@@ -21,7 +21,7 @@ I love programming, learning new technologies, and coffee ☕️
 
 - React & React Native
 - Next.js
-- Docker
+- Docker & Kubernetes
 - Typescript
 - Node.js
 - Zod
