@@ -18,15 +18,10 @@ I love programming, learning new technologies, and coffee ☕️
 - 2D RPG game in Godot called [Pixstead](https://github.com/oscarklm/pixstead)
 
 ## 💙 I love 
-
-- React & React Native
-- Next.js
+- React & React Native, Next.js
 - Docker & Kubernetes
-- Typescript
-- Node.js
-- Zod
-- C#
-- Godot
+- Typescript, Rust, GDScript, SQL
+- Postgres
 
 ## 📆 Events i have attended
 - Github Universe 23 (soon)
