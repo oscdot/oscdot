@@ -27,3 +27,7 @@ I love programming, learning new technologies, and coffee ☕️
 - Zod
 - C#
 - Godot
+
+## 📆 Events i have attended
+- Github Universe 23 (soon)
+- DockerCon 23 (soon)
