@@ -2,9 +2,9 @@
 
 <img src="https://i.imgur.com/OOpRj.gif" align="right" width="220" />
 
-### My name is Oscar, and I'm a Full-Stack developer.
+### My name is Oscar, and I'm a Software Engineer.
 
-I love programming, learning new technologies, and coffee ☕️
+I love developing apps, websites, games & learning new stuff ☕️
 
 <br>
 
