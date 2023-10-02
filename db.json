@@ -33,12 +33,22 @@
     {
       "id": 842,
       "category": "world health",
-      "title": "Blood Donation",
-      "description": "Donate a bit of blood, to help those in need.",
+      "title": "Dance Party",
+      "description": "Dance all you can - dance.",
       "location": "Communal Hospital",
-      "date": "May 2nd, 2022",
-      "time": "09:30",
+      "date": "May 5th, 2023",
+      "time": "12:30",
       "organizer": "Ben Lockmann"
+    },
+    {
+      "id": 196,
+      "category": "food",
+      "title": "Plant a tree",
+      "description": "Plant a tree in the community garden.",
+      "location": "Community Garden",
+      "date": "March 19, 2022",
+      "time": "13:00",
+      "organizer": "Fern Pollin"
     }
   ]
 }
