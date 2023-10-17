@@ -30,4 +30,4 @@ I love developing apps, websites, games & learning new stuff ☕️
 
 ## 📆 Events i have attended
 - Github Universe 23 (soon)
-- DockerCon 23 (soon)
+- DockerCon 23
