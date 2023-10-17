@@ -18,6 +18,10 @@ I love developing apps, websites, games & learning new stuff ☕️
 - My personal website over @ [www.oneguylabs.com](https://oneguylabs.com)
 - 2D RPG game in Godot called [Pixstead](https://github.com/oscarklm/pixstead)
 
+## 🤩 Tech im hyped about
+- https://www.convex.dev/
+- https://expo.dev/
+
 ## 💙 I love 
 - React & React Native, Next.js
 - Docker & Kubernetes
