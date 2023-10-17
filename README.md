@@ -14,6 +14,7 @@ I love developing apps, websites, games & learning new stuff ☕️
 [![GitHub Badge](https://img.shields.io/github/followers/oscdot?label=follow&style=for-the-badge&color=ea3d61)](https://github.com/oscarklm)
 
 ## 🚧 Currently building
+- Flimmer, a better entertainment platform for kids over @ [www.flimmer.app](https://flimmer.app)
 - My personal website over @ [www.oneguylabs.com](https://oneguylabs.com)
 - 2D RPG game in Godot called [Pixstead](https://github.com/oscarklm/pixstead)
 
