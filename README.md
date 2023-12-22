@@ -10,7 +10,6 @@ I love developing apps, websites, games & learning new stuff ☕️
 
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-ea3d61?style=for-the-badge&logo=Svelte&logoColor=black&link=https://oneguylabs.com/)](https://oneguylabs.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-ea3d61?style=for-the-badge&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/oscdot/)](https://www.linkedin.com/in/oscdot/)
-![Visitors Badge](https://komarev.com/ghpvc/?username=oscdot&label=Visitors&style=for-the-badge&color=ea3d61)
 [![GitHub Badge](https://img.shields.io/github/followers/oscdot?label=follow&style=for-the-badge&color=ea3d61)](https://github.com/oscarklm)
 
 ## 🚧 Currently building
