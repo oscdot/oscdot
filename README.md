@@ -15,7 +15,6 @@ I love developing apps, websites, games & learning new stuff ☕️
 ## 🚧 Currently building
 - Flimmer, a better entertainment platform for kids over @ [www.flimmer.app](https://flimmer.app)
 - My personal website over @ [www.oneguylabs.com](https://oneguylabs.com)
-- 2D RPG game in Godot called [Pixstead](https://github.com/oscarklm/pixstead)
 
 ## 🤩 Tech im hyped about
 - https://www.convex.dev/
@@ -24,10 +23,4 @@ I love developing apps, websites, games & learning new stuff ☕️
 
 ## 💙 I love 
 - React & React Native, Next.js
-- Docker & Kubernetes
-- Typescript, Rust, GDScript, SQL
-- Postgres
-
-## 📆 Events i have attended
-- Github Universe 23 (soon)
-- DockerCon 23
+- Typescript, Rust, GDScript
